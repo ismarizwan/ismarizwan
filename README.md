@@ -1,16 +1,17 @@
-## Hi there 👋
+# I LEARN PYTHON AND WEB SCRAPING
 
-<!--
-**ismarizwan/ismarizwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 About Me
 
-Here are some ideas to get you started:
+- 🎓 Student learning Python
+- 🔭 Love to build scrapers and Excel/CSV automation scripts
+- 🌱 Currently learning: Git, GitHub, BeautifulSoup
+- 🤖 I use Claude (an AI assistant) to help me learn, understand code and fix errors
+- 📂 My first project: [Luggage Price Scraper](https://github.com/ismarizwan/luggage-scraper)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚡ My Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,git,github" alt="Tools">
+</p>
